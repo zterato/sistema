@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+width: 100%;
+
+	background: #D0CDCD;
+
+}
+/* Estrutura do home */
+.estr{
+	height: 93vh;
+}
+.estrhome{
+	height: 93vh;
+}
+.formu{
+	background: white;
+	padding: 10%;
+	border-radius: 3%;
+}
+.bem{
+	background: white;
+	border-radius: 3%;
+	padding: 5%;
+	text-align: center;
+}
+.espa{
+	padding: 15%;
+}
+.espa2{
+
+	padding: 15%;
+}
+.not{
+	background: white;
+	border-radius: 2%;
+	text-align: center;
+	padding: 1%;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+
+.rodape{
+	text-align: center;
+}
